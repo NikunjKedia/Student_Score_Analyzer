@@ -10,7 +10,7 @@ A beginner-friendly data analysis project built using **Python and Pandas**.
 - Exports summarized results to `results_summary.csv`
 
 ### Tech Used
-- Python 🐍
+- Python
 - Pandas
 
 ### How to Run
